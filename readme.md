@@ -1,4 +1,1 @@
-# hello 
-# khoa hyth
-# hello world
-# my name is khoa
+# nmy name is khoa huynh i am 20 year old
